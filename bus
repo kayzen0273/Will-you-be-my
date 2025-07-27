@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>son of a bitch?</h1>
+        <h1>i am a gay?</h1>
         <div class="buttons">
             <button class="yes-button" onclick="handleYesClick()">yes</button>
             <button class="no-button" onclick="handleNoClick()">No</button>
